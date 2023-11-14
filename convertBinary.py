@@ -33,6 +33,9 @@ def menu():
                 )
             binaryWord.append(convertion)
         print(" ".join(binaryWord))
+        
+    else:
+        exit()
 
 menu()
 
